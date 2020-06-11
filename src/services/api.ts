@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "https://powerful-harbor-68671.herokuapp.com/",
+  baseURL: "http://3.20.240.35:3333/",
   // baseURL: "http://localhost:3333",
 });
 
